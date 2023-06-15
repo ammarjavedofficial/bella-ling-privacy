@@ -8,7 +8,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, Email address, Name, Phone number, Address.
+While using Our Service, We can ask you to provide us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, Email address, Name, Phone number, Address.
 
 The Company may use Personal Data for the following purposes:
 
